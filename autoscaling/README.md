@@ -13,7 +13,9 @@ aws_access_key_id =
 aws_secret_access_key =*** 
 
 Initiate your Directory where the code is present 
-```terraform init```
+```
+terraform init
+```
 
 Do a Plan to see all the resources it will create 
 ```
