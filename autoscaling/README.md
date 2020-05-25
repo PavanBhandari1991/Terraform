@@ -8,3 +8,6 @@ Also Make Sure you have Terraform Version 0.12 and Above as some of the Syntax m
 aws_access_key_id = 
 aws_secret_access_key = 
 
+Initiate your Directory where the code is present 
+
+
