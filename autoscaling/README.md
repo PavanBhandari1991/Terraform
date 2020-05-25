@@ -10,8 +10,8 @@
 #### Credentials file contents
 ```
 [default]
-aws_access_key_id = ***
-aws_secret_access_key = *** 
+aws_access_key_id = ********
+aws_secret_access_key = *******
 ```
 
 Initiate your Directory where the code is present 
